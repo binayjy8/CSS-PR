@@ -1,3 +1,7 @@
 button {
-    border-radius: 15%;
+    font-size: 50px;
+    border-radius: 15px;
+    border: 2px solid black;
+    padding-left:1em;
+    padding-right: 1em;
 }
